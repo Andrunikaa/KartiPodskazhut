@@ -1,0 +1,19 @@
+.page.theme_dark {
+  --text-color: #b3b3b3;
+  --bg-color: #171717;
+  --list-image: url("../images/list__marker-dark.png");
+  --bottom-border: url("../images/pattern.svg");
+  --border-color: white;
+  --span: none;
+  --span-border: 1px solid #b3b3b3;
+}
+
+.page.theme_light {
+  --text-color: #312a4e;
+  --bg-color: #f3efec;
+  --list-image: url("../images/list__marker-light.png");
+  --bottom-border: #ffab6b;
+  --border-color: #312a4e;
+  --span: #ffab6b;
+  --span-border: none;
+}
